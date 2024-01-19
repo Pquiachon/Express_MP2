@@ -28,7 +28,7 @@ app.get("/exercises", (req, res) => {
     res.write(data);
     res.send();
 
-    console.log(exer);
+    console.log(e);
   });
 });
 
