@@ -27,6 +27,8 @@ app.get("/exercises", (req, res) => {
     res.writeHead(200, { "Content-Type": "text/html" });
     res.write(data);
     res.send();
+
+    console.log(exer);
   });
 });
 
