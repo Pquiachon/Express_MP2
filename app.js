@@ -1,6 +1,6 @@
 const ex = require("express");
 const fs = require("fs");
-const exer = require("exercises");
+const exer = require("./exercises");
 
 const app = ex();
 
