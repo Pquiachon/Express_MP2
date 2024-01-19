@@ -1,10 +1,12 @@
 const ex = require("express");
 const fs = require("fs");
 const exer = require("./exercises");
+const cors = require("cors");
 
 const app = ex();
 
 app.use(ex.json());
+app.use(cors());
 
 const e = exer.exercises;
 // API
