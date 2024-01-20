@@ -7,7 +7,7 @@ const exe = {
             {
               name: "Hollow Hold",
               equipment: "None",
-              img: "../img/hallowholdworkout.jpg",
+              img: "../img/abs_easy1.jpg",
             },
             {
               name: "2-Move Abs",
