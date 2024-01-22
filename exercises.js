@@ -152,12 +152,12 @@ const exe = {
             {
               name: "Push, Pull Legs",
               equipment: "Dumbell",
-              img: "img/chest_med1.jpg",
+              img: "img/chest_med2.jpg",
             },
             {
               name: "Azarinth Healer",
               equipment: "None",
-              img: "img/chest_med1.jpg",
+              img: "img/chest_med3.jpg",
             },
           ],
           back: [
