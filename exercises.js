@@ -157,7 +157,7 @@ const exe = {
             {
               name: "Azarinth Healer",
               equipment: "None",
-              img: "img/chest_med3.jpg",
+              img: "img/chest_med3cd ...jpg",
             },
           ],
           back: [
@@ -173,7 +173,7 @@ const exe = {
             },
             {
               name: "Tomboy",
-              equipment: "Dumbell & Horizontal Bar",
+              equipment: "Horizontal Bar",
               img: "img/back_med3.jpg",
             },
           ],
